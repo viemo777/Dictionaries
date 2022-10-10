@@ -21,3 +21,5 @@ print(car_prices)
 # append(item)  # ex. x.append('AAA') # =>  x = [12, 32.43, 'WWW', 'AAA']
 # insert(index, item)  # ex. x.insert(2, 'III') # =>  x = [12, 32.43, 'WWW', 'III']
 # pop(index) # ex. x.pop(2) # =>  x = [12, 32.43, 'III']
+
+
